@@ -4,11 +4,11 @@
 
 <div align="center">
 	<p>
-		<a href="https://github.com/songjag/discord-kiro-vscode">
-			<img alt="GitHub Stars" src="https://img.shields.io/github/stars/songjag/discord-kiro-vscode?style=social">
+		<a href="https://github.com/Songjag/Kiro-discord">
+			<img alt="GitHub Stars" src="https://img.shields.io/github/stars/Songjag/Kiro-discord?style=social">
 		</a>
-		<a href="https://github.com/songjag/discord-kiro-vscode/releases">
-			<img alt="GitHub Release" src="https://img.shields.io/github/v/release/songjag/discord-kiro-vscode">
+		<a href="https://github.com/Songjag/Kiro-discord/releases">
+			<img alt="GitHub Release" src="https://img.shields.io/github/v/release/Songjag/Kiro-discord">
 		</a>
 	</p>
 </div>
@@ -36,7 +36,7 @@ This is a **Edited version for Kiro IDE** of the original [Discord Presence by i
 
 ### From .vsix file (recommended)
 
-1. Download the latest `.vsix` file from [Releases](https://github.com/songjag/discord-kiro-vscode/releases)
+1. Download the latest `.vsix` file from [Releases](https://github.com/Songjag/Kiro-discord/releases)
 2. Open Kiro IDE
 3. Go to Extensions (`Ctrl+Shift+X`)
 4. Click `...` → `Install from VSIX...`
@@ -52,8 +52,8 @@ This is a **Edited version for Kiro IDE** of the original [Discord Presence by i
 
 ```bash
 # Clone the repository
-git clone https://github.com/songjag/discord-kiro-vscode.git
-cd discord-kiro-vscode
+git clone https://github.com/Songjag/Kiro-discord.git
+cd Kiro-discord
 
 # Install dependencies
 pnpm install
@@ -90,8 +90,8 @@ https://github.com/iCrawl/discord-vscode/issues/85#issuecomment-417895483
 
 ## Contributing
 
-1. [Fork the repository](https://github.com/songjag/discord-kiro-vscode/fork)!
-2. Clone your fork: `git clone https://github.com/songjag/discord-kiro-vscode.git`
+1. [Fork the repository](https://github.com/Songjag/Kiro-discord/fork)!
+2. Clone your fork: `git clone https://github.com/Songjag/Kiro-discord.git`
 3. Create your feature branch: `git checkout -b my-new-feature`
 4. Commit your changes: `git commit -am 'Add some feature'`
 5. Push to the branch: `git push origin my-new-feature`
